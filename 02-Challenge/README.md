@@ -1,4 +1,12 @@
-MIT License
+# README
+
+Project title: Challenge-1
+
+Usage: In my challenge I cleaned up my code by shortening it slightly, reviewing the html code and making it neater. I gave it a concise title that matches the website. I made sure that nothing was affected by my slight changes to the HTML code.
+
+Features: I shortened the code for optimization, and is slightly easier to read. A fully accessible website with a nothing else that has affected the code.
+
+Liscense: MIT License
 
 Copyright (c) 2024 Ellisonjaked
 
@@ -19,3 +27,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
